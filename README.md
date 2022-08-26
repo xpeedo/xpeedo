@@ -1,7 +1,8 @@
 # *facts about me*
 
-- I work for cheats.tw
-- I do maintenance for yeete.rs
+- CEO @ [cheats.tw](https://cheats.tw/)
+- CEO @ [SSAB-Technology](https://github.com/SSAB-Technology)
+- Corrupt Heap Developer
 
 # *contact*
 - Email: xpeedo[ox]cheats.tw
