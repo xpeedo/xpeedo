@@ -1,7 +1,7 @@
 # *facts about me*
 
-- CEO @ [cheats.tw](https://cheats.tw/)
-- CEO @ [SSAB-Technology](https://github.com/SSAB-Technology)
+- Founder & CEO @ [cheats.tw](https://cheats.tw/)
+- Founder & CEO @ [SSAB-Technology](https://github.com/SSAB-Technology)
 - Corrupt Heap Developer
 
 # *contact*
