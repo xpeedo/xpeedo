@@ -6,6 +6,6 @@
 - Corrupt Heap Developer
 
 # *contact*
-- Email: xpeedo[ox]cheats.tw
-- Telegram: @notxpd
-- Discord: xpd#5650
+- Email: [xpeedo\[ox\]cheats.tw](mailto:xpeedo@cheats.tw)
+- Telegram: [@xpeedo](https://t.me/xpeedo)
+- Discord: [xpd#5650](https://discord.com/users/824327982830714921)
