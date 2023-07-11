@@ -7,6 +7,5 @@
 - Corrupt Heap Developer
 
 # *contact*
-- Email: [xpeedo@cheats.tw](mailto:xpeedo@cheats.tw)
 - Telegram: [xpeedo](https://t.me/xpeedo)
 - Discord: [xpeedo](https://discord.com/users/824327982830714921)
