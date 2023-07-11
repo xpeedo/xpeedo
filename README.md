@@ -3,6 +3,7 @@
 - Founder & CEO @ [cheats.tw](https://cheats.tw/)
 - Founder & CEO @ [SSAB-Technology](https://github.com/SSAB-Technology)
 - Collaborator @ [pHeNOMz0r](https://phenomz0r.net/)
+- Rust Developer @ [LSCity](https://github.com/LSCity)
 - Corrupt Heap Developer
 
 # *contact*
