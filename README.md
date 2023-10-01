@@ -1,9 +1,8 @@
 # *facts about me*
 
 - Founder & CEO @ [cheats.tw](https://cheats.tw/)
-- Founder & CEO @ [SSAB-Technology](https://github.com/SSAB-Technology)
+- Founder & CEO @ [SXUP Technology](https://github.com/sxup-tech)
 - Collaborator @ [pHeNOMz0r](https://phenomz0r.net/)
-- [Rust](https://www.rust-lang.org/) Developer @ [LSCity](https://github.com/LSCity)
 - Corrupt Heap Developer
 
 # *contact*
